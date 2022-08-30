@@ -6,7 +6,7 @@
 
 ## Praktikum 2: Membuat Repository Github dan Laporan Praktikum
 
-![Membuat Repository](./images/02.png)
+![Membuat Repository](./images/prak2.PNG)
 
 ## Praktikum 3: Menerapkan Widget Dasar
 
