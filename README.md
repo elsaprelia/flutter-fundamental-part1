@@ -10,13 +10,11 @@
 
 ## Praktikum 3: Menerapkan Widget Dasar
 
-Langkah 1: Text Widget
+
 
 ![Text Widget](./images/prak3.PNG)
 
-Langkah 2: Image Widget
 
-![Image Widget](./images/04.png)
 
 ## Praktikum 4: Menerapkan Widget Material Design dan iOS Cupertino
 
