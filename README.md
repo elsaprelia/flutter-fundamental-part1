@@ -2,7 +2,7 @@
 
 ## Praktikum 1: Membuat Project Flutter Baru
 
-![Project Hello World](./images/prak1.png)
+![Project Hello World](./images/prak1.PNG)
 
 ## Praktikum 2: Membuat Repository Github dan Laporan Praktikum
 
