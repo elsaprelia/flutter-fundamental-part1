@@ -20,4 +20,4 @@
 
 Langkah 1: Cupertino Button dan Loading Bar
 
-![Cupertino Button dan Loading Bar](./images/05.png)
+![Cupertino Button dan Loading Bar](./images/prak4.PNG)
