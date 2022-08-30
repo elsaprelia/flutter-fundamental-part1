@@ -5,7 +5,8 @@ class MyTextWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Text("Nama saya Fulan, sedang ikut TSA Mobile Flutter",
+    return const Text(
+        "Nama saya ELSA APRELIANI SUTRISNO, sedang ikut TSA Mobile Flutter",
         style: TextStyle(color: Colors.red, fontSize: 14),
         textAlign: TextAlign.center);
   }

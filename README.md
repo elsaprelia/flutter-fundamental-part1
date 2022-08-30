@@ -12,7 +12,7 @@
 
 Langkah 1: Text Widget
 
-![Text Widget](./images/03.png)
+![Text Widget](./images/prak3.PNG)
 
 Langkah 2: Image Widget
 
